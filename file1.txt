@@ -1,1 +1,3 @@
-this is sample file.
+this is sample file. 
+This is a text added by kartik on 15th June 2020 and there is only 1 commit on this 
+repo and this one is going to be made by me 
